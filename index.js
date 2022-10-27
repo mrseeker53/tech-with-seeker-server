@@ -1,6 +1,10 @@
 const express = require('express')
 const app = express();
+const cors = require('cors');
 const port = process.env.PORT || 5000;
+
+// Use cors to skip fetch error
+app.use(cors());
 
 const courses = require('./data/courses.json')
 
