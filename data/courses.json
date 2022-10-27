@@ -2,37 +2,37 @@
     {
         "id": "01",
         "name": "Python",
-        "logo": "../assets/Images/python-logo.png",
+        "image": "https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+python-1324450764865983278.png",
         "description": "Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because Python code is concise and easy to read. From web development to machine learning to data science, Python is the language for you."
     },
     {
         "id": "02",
         "name": "JavaScript",
-        "logo": "../assets/Images/javascript-logo.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
         "description": "The JavaScript programming language is fun and flexible. It’s one of the core technologies of web development and can be used on both the front-end and the back-end."
     },
     {
         "id": "03",
         "name": "HTML & CSS",
-        "logo": "../assets/Images/html-css-logo.png",
+        "image": "https://www.pngitem.com/pimgs/m/23-237369_html5-and-css3-transparent-background-html-logo-hd.png",
         "description": "HTML is the foundation of all web pages. It defines the structure of a page, while CSS defines its style. HTML and CSS are the beginning of everything you need to know to make your first web page! Learn both and start creating amazing websites."
     },
     {
         "id": "04",
         "name": "SQL",
-        "logo": "../assets/Images/sql-logo.png",
+        "image": "https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg",
         "description": "SQL is the standard relational data management language. We live in a data-driven world, and there are many businesses that store their information inside large, relational databases. This makes SQL a great skill not only for data scientists and engineers, but for anyone wanting to be data-literate."
     },
     {
         "id": "05",
         "name": "Ruby",
-        "logo": "../assets/Images/ruby_logo.jpg",
+        "image": "https://brandlogos.net/wp-content/uploads/2016/07/ruby-vector-logo.png",
         "description": "Ruby is a dynamic, general-purpose programming language most commonly used for Web Development. Its key designer, Yukihiro Matsumoto, said that Ruby was designed for humans, not machines, making it a favorite of many developers and tech companies. Its most popular implementation is with the powerful Ruby on Rails web framework."
     },
     {
         "id": "06",
         "name": "Go",
-        "logo": "../assets/Images/go-logo.png",
+        "image": "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Black.png",
         "description": "Go, or Golang, is an open source programming language developed at Google. The designers of Go wanted developers to have a programming language that made it quick and easy to develop applications. Go is used on servers, web development, and even command line interfaces."
     }
 ]
