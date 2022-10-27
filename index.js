@@ -15,7 +15,17 @@ app.get('/', (req, res) => {
 
 // Set API for courses
 app.get('/courses', (req, res) => {
+    // Get courses data
     res.send(courses)
+});
+
+// Set API for course
+app.get('/course/:id', (req, res) => {
+    // Set course id
+    const id = req.params.id;
+    const course = courses.filter(n => n.id === id);
+    // Get course data
+    res.send(course);
 })
 
 // Listen port
